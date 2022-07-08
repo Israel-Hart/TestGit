@@ -1,2 +1,3 @@
 This is a github test file 
 and just for test purposes, the best thing about a text file is it's simplicity.
+This is an addition to this test file in this repository.
